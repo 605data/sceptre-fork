@@ -1,5 +1,7 @@
 # Sceptre
 
+## TODO: Add info about why this fork exists (hooks and resolvers)
+
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Sceptre/sceptre/gate.yaml)](https://github.com/Sceptre/sceptre/actions/workflows/gate.yaml)
 [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/sceptreorg/sceptre?logo=docker&sort=semver)](https://hub.docker.com/r/sceptreorg/sceptre)
 [![PyPI](https://img.shields.io/pypi/v/sceptre?logo=pypi)](https://pypi.org/project/sceptre/)
